@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan722&" alt="mehedihasan722" /></p>
 
-![snake gif](https://github.com/mehedihasan722/mehedihasan722/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg" alt="Snake animation" />
