@@ -39,7 +39,7 @@
 
 <div align="center">
 
- # 📊 GitHub Stats & 🔝 Top Contributed Repo:
+ # 📊 GitHub Stats & 🔝 Top Contributed Repo
   </div>
 <div align="center">
  
