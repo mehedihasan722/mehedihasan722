@@ -39,7 +39,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=false&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=false&count_private=true" width="55%" /> 
+<img src="https://github-contributor-stats.vercel.app/api?username=mehedihasan722&limit=5&theme=radical&combine_all_yearly_contributions=true" width="45%" /> 
+</br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan722&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
