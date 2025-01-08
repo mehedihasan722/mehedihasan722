@@ -52,7 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan722&theme=midnight-purple&hide_border=true" width="50%"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehedihasan722&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mehedihasan722&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=mehedihasan722&icon=9&color=0)](https://visitcount.itsvg.in)
 
