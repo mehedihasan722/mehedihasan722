@@ -37,8 +37,10 @@
 </div>
 
 
+<div align="center">
 
  # 📊 GitHub Stats & 🔝 Top Contributed Repo:
+  </div>
 <div align="center">
  
   <div align="justify-between">
