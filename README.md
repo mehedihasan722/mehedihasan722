@@ -38,7 +38,7 @@
 
 
 
- # 📊 GitHub Stats & ### 🔝 Top Contributed Repo:
+ # 📊 GitHub Stats & 🔝 Top Contributed Repo:
 <div align="center">
  
   <div align="justify-between">
