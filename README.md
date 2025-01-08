@@ -45,10 +45,10 @@
 </div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan722&theme=midnight-purple&hide_border=false)<br/>
 
-<div align="center">
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mehedihasan722&limit=5&theme=radical&combine_all_yearly_contributions=true)
-</div>
+
 
 
 
