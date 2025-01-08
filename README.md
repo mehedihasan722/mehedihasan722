@@ -44,12 +44,12 @@
 <div align="center">
  
   <div align="justify-between">
-    <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=false&count_private=true" width="50%" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=false&count_private=true" width="50%" style="margin-right: 20px" /> 
 <img src="https://github-contributor-stats.vercel.app/api?username=mehedihasan722&limit=5&theme=radical&combine_all_yearly_contributions=true" width="40%" /> 
   </div>
   
 </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan722&theme=midnight-purple&hide_border=false" width="50%" style="margin-right: 20px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan722&theme=midnight-purple&hide_border=false" width="50%"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
