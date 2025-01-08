@@ -39,7 +39,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <div>
+  <div align="justify-between">
     <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=false&count_private=true" width="50%" /> 
 <img src="https://github-contributor-stats.vercel.app/api?username=mehedihasan722&limit=5&theme=radical&combine_all_yearly_contributions=true" width="40%" /> 
   </div>
