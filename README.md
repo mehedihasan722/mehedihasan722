@@ -1,60 +1,89 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
-<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A passionate Junior Software Developer from Bangladesh</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mehedihasan722&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan722" />
-</p>
-
-- 🌱 I’m currently learning **PHP, Flutter, Dart, C++**
-
-- 💬 Ask me about **Android, MERN**
-
-- 📫 How to reach me **mjimehedi99@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehedih13125816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedih13125816" height="30" width="40" /></a>
-<a href="https://instagram.com/mehedi_hasan_722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedi_hasan_722" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/c213061_mehedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="c213061_mehedi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mjimehedi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mjimehedi99" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mehedi_hasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mehedi_hasan_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mehedi_hasan_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="mehedi_hasan_99" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mjimehedi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mjimehedi99" height="30" width="40" /></a>
-</p>
-
 <div align="center">
-  
-## 💻 Tech Stack ⚡
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:0F766E,100:22D3EE&text=Mehedi%20Hasan&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=Building+useful+web+and+mobile+experiences;Exploring+XAI%2C+real-time+apps%2C+and+systems;Turning+ideas+into+clean%2C+working+software)](https://git.io/typing-svg)
+
+[![Profile views](https://komarev.com/ghpvc/?username=mehedihasan722&label=Profile+views&color=0F766E&style=for-the-badge)](https://github.com/mehedihasan722)
+[![GitHub followers](https://img.shields.io/github/followers/mehedihasan722?label=Followers&style=for-the-badge&logo=github&color=0F766E)](https://github.com/mehedihasan722?tab=followers)
+[![Email](https://img.shields.io/badge/Email-mjimehedi99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjimehedi99@gmail.com)
 
 </div>
 
+## About me
+
+```ts
+const mehedi = {
+  location: "Bangladesh",
+  focus: ["Software Development", "Problem Solving", "XAI"],
+  building: ["Web Apps", "Mobile Apps", "Real-time Systems"],
+  learning: ["Python", "TypeScript", "Rust", "Cloud Technologies"],
+  motto: "Learn deeply. Build thoughtfully. Improve continuously."
+};
+```
+
+- Currently developing an **Explainable AI intrusion-detection project** and a **real-time collaborative editor**.
+- Comfortable working across frontend, backend, mobile, databases, and developer tooling.
+- I enjoy competitive programming and strengthening my fundamentals through consistent practice.
+- Open to collaborating on practical, open-source software.
+
+## Featured work
 
 <div align="center">
 
- # 📊 GitHub Stats & 🔝 Top Contributed Repo
-  </div>
-<div align="center">
- 
-  <div align="justify-between">
-    <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=false&count_private=true" width="50%" style="margin-right: 20px" /> 
-<img src="https://github-contributor-stats.vercel.app/api?username=mehedihasan722&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="40%" /> 
-  </div>
-  
-</br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan722&theme=aura&hide_border=true" width="50%"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan722&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+<a href="https://github.com/mehedihasan722/Thesis-Defense-Project-XAI-ids-Update"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=Thesis-Defense-Project-XAI-ids-Update&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="XAI intrusion detection project" /></a>
+<a href="https://github.com/mehedihasan722/real-time-editor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=real-time-editor&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="Real-time editor" /></a>
+<a href="https://github.com/mehedihasan722/file-sharing-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=file-sharing-app&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="File sharing app" /></a>
+<a href="https://github.com/mehedihasan722/figma-clone"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=figma-clone&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="Figma clone" /></a>
+
 </div>
 
+## Technology toolbox
 
-[![](https://visitcount.itsvg.in/api?id=mehedihasan722&icon=9&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
+### Languages
 
-<img src="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg" alt="Snake animation" />
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,go,rust,dart&perline=10)](https://skillicons.dev)
+
+### Web & mobile
+
+[![Web and mobile](https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,svelte,flutter,graphql&perline=8)](https://skillicons.dev)
+
+### Data, cloud & tools
+
+[![Data, cloud, and tools](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,firebase,aws,docker,git,github,postman&perline=10)](https://skillicons.dev)
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="Mehedi's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan722&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=14B8A6&text_color=94A3B8" alt="Mehedi's most used languages" />
+<img width="70%" src="https://streak-stats.demolab.com?user=mehedihasan722&hide_border=true&background=00000000&ring=14B8A6&fire=22D3EE&currStreakLabel=14B8A6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="Mehedi's contribution streak" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg" />
+</picture>
+
+</div>
+
+## Find me online
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-@mehedih13125816-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mehedih13125816)
+[![Instagram](https://img.shields.io/badge/Instagram-@mehedi__hasan__722-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mehedi_hasan_722)
+[![Codeforces](https://img.shields.io/badge/Codeforces-mehedi__hasan__-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mehedi_hasan_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mehedi__hasan__99-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mehedi_hasan_99)
+[![HackerRank](https://img.shields.io/badge/HackerRank-mjimehedi99-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mjimehedi99)
+
+### Let's build something meaningful together.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0F766E,100:22D3EE)
+
+</div>
