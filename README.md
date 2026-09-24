@@ -29,14 +29,36 @@ const mehedi = {
 
 ## Featured work
 
-<div align="center">
-
-<a href="https://github.com/mehedihasan722/Thesis-Defense-Project-XAI-ids-Update"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=Thesis-Defense-Project-XAI-ids-Update&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="XAI intrusion detection project" /></a>
-<a href="https://github.com/mehedihasan722/real-time-editor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=real-time-editor&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="Real-time editor" /></a>
-<a href="https://github.com/mehedihasan722/file-sharing-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=file-sharing-app&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="File sharing app" /></a>
-<a href="https://github.com/mehedihasan722/figma-clone"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehedihasan722&repo=figma-clone&theme=transparent&hide_border=true&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="Figma clone" /></a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedihasan722/Thesis-Defense-Project-XAI-ids-Update">XAI Intrusion Detection</a></h3>
+      <p>An explainable-AI research project focused on intrusion detection and interpretable security analysis.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/github/last-commit/mehedihasan722/Thesis-Defense-Project-XAI-ids-Update?style=flat-square&color=0F766E" alt="Last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedihasan722/real-time-editor">Real-time Editor</a></h3>
+      <p>A collaborative editor exploring synchronized, real-time application experiences.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/github/last-commit/mehedihasan722/real-time-editor?style=flat-square&color=0F766E" alt="Last commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedihasan722/file-sharing-app">File Sharing App</a></h3>
+      <p>A TypeScript application for simple, modern file-sharing workflows.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/github/last-commit/mehedihasan722/file-sharing-app?style=flat-square&color=0F766E" alt="Last commit" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehedihasan722/figma-clone">Figma Clone</a></h3>
+      <p>A TypeScript project exploring collaborative design-tool interfaces and interactions.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/github/last-commit/mehedihasan722/figma-clone?style=flat-square&color=0F766E" alt="Last commit" />
+    </td>
+  </tr>
+</table>
 
 ## Technology toolbox
 
@@ -60,8 +82,9 @@ const mehedi = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehedihasan722&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=14B8A6&text_color=94A3B8&icon_color=22D3EE" alt="Mehedi's GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan722&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=14B8A6&text_color=94A3B8" alt="Mehedi's most used languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasan722&theme=github_dark" alt="Mehedi's GitHub profile details" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasan722&theme=github_dark" alt="Mehedi's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasan722&theme=github_dark" alt="Mehedi's repositories by language" />
 <img width="70%" src="https://streak-stats.demolab.com?user=mehedihasan722&hide_border=true&background=00000000&ring=14B8A6&fire=22D3EE&currStreakLabel=14B8A6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="Mehedi's contribution streak" />
 
 <picture>
