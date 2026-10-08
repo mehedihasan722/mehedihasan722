@@ -1,112 +1,123 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:0F766E,100:22D3EE&text=Mehedi%20Hasan&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn)
+![Mehedi Hasan — Thoughtful interfaces. Useful software.](./assets/header.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=720&lines=Building+useful+web+and+mobile+experiences;Exploring+XAI%2C+real-time+apps%2C+and+systems;Turning+ideas+into+clean%2C+working+software)](https://git.io/typing-svg)
+**Web & mobile development · Real-time collaboration · Explainable AI**
 
-[![Profile views](https://komarev.com/ghpvc/?username=mehedihasan722&label=Profile+views&color=0F766E&style=for-the-badge)](https://github.com/mehedihasan722)
-[![GitHub followers](https://img.shields.io/github/followers/mehedihasan722?label=Followers&style=for-the-badge&logo=github&color=0F766E)](https://github.com/mehedihasan722?tab=followers)
-[![Email](https://img.shields.io/badge/Email-mjimehedi99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjimehedi99@gmail.com)
+Building from Bangladesh. Learning by making things that work.
+
+[![Email](https://img.shields.io/badge/LET'S_TALK-D5FF70?style=for-the-badge&logo=gmail&logoColor=14151F)](mailto:mjimehedi99@gmail.com) [![Projects](https://img.shields.io/badge/EXPLORE_MY_WORK-242435?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedihasan722?tab=repositories) [![Codeforces](https://img.shields.io/badge/CODEFORCES-242435?style=for-the-badge&logo=codeforces&logoColor=C4B5FD)](https://codeforces.com/profile/mehedi_hasan_)
 
 </div>
 
-## About me
+<br>
 
-```ts
-const mehedi = {
-  location: "Bangladesh",
-  focus: ["Software Development", "Problem Solving", "XAI"],
-  building: ["Web Apps", "Mobile Apps", "Real-time Systems"],
-  learning: ["Python", "TypeScript", "Rust", "Cloud Technologies"],
-  motto: "Learn deeply. Build thoughtfully. Improve continuously."
-};
-```
+## A little about me
 
-- Currently developing an **Explainable AI intrusion-detection project** and a **real-time collaborative editor**.
-- Comfortable working across frontend, backend, mobile, databases, and developer tooling.
-- I enjoy competitive programming and strengthening my fundamentals through consistent practice.
-- Open to collaborating on practical, open-source software.
+I'm **Mehedi**, a software developer interested in the space where clear interfaces meet useful engineering. I build web and mobile experiences, explore real-time systems, and study how AI decisions can be made more understandable.
 
-## Featured work
+- **Building:** Flowboard, a collaborative whiteboard and real-time editor.
+- **Exploring:** explainable AI for intrusion detection and interpretable security analysis.
+- **Practicing:** algorithms, problem solving, and the fundamentals behind reliable software.
+- **Open to:** practical open-source projects and thoughtful collaboration.
+
+<br>
+
+## Selected work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehedihasan722/Thesis-Defense-Project-XAI-ids-Update">XAI Intrusion Detection</a></h3>
-      <p>An explainable-AI research project focused on intrusion detection and interpretable security analysis.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/github/last-commit/mehedihasan722/Thesis-Defense-Project-XAI-ids-Update?style=flat-square&color=0F766E" alt="Last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehedihasan722/real-time-editor">Real-time Editor</a></h3>
-      <p>A collaborative editor exploring synchronized, real-time application experiences.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/github/last-commit/mehedihasan722/real-time-editor?style=flat-square&color=0F766E" alt="Last commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehedihasan722/file-sharing-app">File Sharing App</a></h3>
-      <p>A TypeScript application for simple, modern file-sharing workflows.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/github/last-commit/mehedihasan722/file-sharing-app?style=flat-square&color=0F766E" alt="Last commit" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehedihasan722/figma-clone">Figma Clone</a></h3>
-      <p>A TypeScript project exploring collaborative design-tool interfaces and interactions.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/github/last-commit/mehedihasan722/figma-clone?style=flat-square&color=0F766E" alt="Last commit" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / Flowboard
+
+**Ideas, together. In real time.**
+
+A collaborative whiteboard with drawing tools, threaded comments, shared boards, and a Three.js arcade.
+
+`TypeScript` · `Next.js` · `Convex` · `Three.js`
+
+[Explore the project →](https://github.com/mehedihasan722/real-time-editor)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / Explainable security
+
+**Understanding the prediction.**
+
+An intrusion-detection research project exploring explainable AI and interpretable security analysis.
+
+`Python` · `Machine learning` · `XAI`
+
+[Explore the research →](https://github.com/mehedihasan722/Thesis-Defense-Project-XAI-ids-Update)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / File sharing
+
+**A simpler way to share.**
+
+A TypeScript application exploring modern file-sharing workflows and approachable interfaces.
+
+`TypeScript` · `Web application`
+
+[Explore the project →](https://github.com/mehedihasan722/file-sharing-app)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Design workspace
+
+**Exploring how creative tools work.**
+
+A Figma-inspired project focused on collaborative design interfaces and canvas interactions.
+
+`TypeScript` · `UI development`
+
+[Explore the project →](https://github.com/mehedihasan722/figma-clone)
+
+</td>
+</tr>
 </table>
 
-## Technology toolbox
+<br>
 
-<div align="center">
+## My toolkit
 
-### Languages
+Tools I work with and technologies I’m continuing to explore.
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,go,rust,dart&perline=10)](https://skillicons.dev)
+| Focus | Technologies |
+| :--- | :--- |
+| **Interfaces** | React · Next.js · TypeScript · JavaScript · HTML · CSS |
+| **Applications** | Node.js · Flutter · Dart · GraphQL |
+| **Data & infrastructure** | MongoDB · MySQL · Redis · Firebase · Docker · AWS |
+| **Research & fundamentals** | Python · C · C++ · Java |
+| **Currently exploring** | Rust · Go · Cloud technologies |
 
-### Web & mobile
+<br>
 
-[![Web and mobile](https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,svelte,flutter,graphql&perline=8)](https://skillicons.dev)
-
-### Data, cloud & tools
-
-[![Data, cloud, and tools](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,firebase,aws,docker,git,github,postman&perline=10)](https://skillicons.dev)
-
-</div>
-
-## GitHub activity
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasan722&theme=github_dark" alt="Mehedi's GitHub profile details" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasan722&theme=github_dark" alt="Mehedi's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasan722&theme=github_dark" alt="Mehedi's repositories by language" />
-<img width="70%" src="https://streak-stats.demolab.com?user=mehedihasan722&hide_border=true&background=00000000&ring=14B8A6&fire=22D3EE&currStreakLabel=14B8A6&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="Mehedi's contribution streak" />
+## A habit of building
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg">
+  <img width="100%" alt="Animated view of my GitHub contribution grid" src="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake.svg">
 </picture>
 
-</div>
+<p align="center"><a href="https://github.com/mehedihasan722?tab=repositories">Browse repositories</a> &nbsp; / &nbsp; <a href="https://github.com/mehedihasan722?tab=overview">View contribution history</a></p>
 
-## Find me online
+<br>
 
-<div align="center">
+## Beyond the editor
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mehedih13125816-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mehedih13125816)
-[![Instagram](https://img.shields.io/badge/Instagram-@mehedi__hasan__722-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mehedi_hasan_722)
-[![Codeforces](https://img.shields.io/badge/Codeforces-mehedi__hasan__-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mehedi_hasan_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mehedi__hasan__99-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mehedi_hasan_99)
-[![HackerRank](https://img.shields.io/badge/HackerRank-mjimehedi99-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mjimehedi99)
+I practice problem solving on [Codeforces](https://codeforces.com/profile/mehedi_hasan_), [LeetCode](https://leetcode.com/mehedi_hasan_99), and [HackerRank](https://www.hackerrank.com/mjimehedi99).
 
-### Let's build something meaningful together.
+Find me on [X / Twitter](https://twitter.com/mehedih13125816) and [Instagram](https://instagram.com/mehedi_hasan_722), or say hello at **[mjimehedi99@gmail.com](mailto:mjimehedi99@gmail.com)**.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0F766E,100:22D3EE)
+<br>
 
-</div>
+[![Have an idea? Let's build something useful. Say hello.](./assets/footer.svg)](mailto:mjimehedi99@gmail.com)
