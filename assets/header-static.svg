@@ -1,16 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
 <title id="title">Mehedi Hasan — Software developer</title>
 <desc id="desc">Midnight purple banner with lime accents and an orbital illustration. Thoughtful interfaces. Useful software.</desc>
-<style>
-.orbit-ring{transform-origin:0 0;animation:spin 40s linear infinite}
-.core-glow{animation:breathe 5s ease-in-out infinite}
-.spark{animation:twinkle 4s ease-in-out infinite}
-.still-satellite{display:none}
-@keyframes spin{to{transform:rotate(360deg)}}
-@keyframes breathe{50%{opacity:.55}}
-@keyframes twinkle{50%{opacity:.3}}
-@media(prefers-reduced-motion:reduce){.orbit-ring,.core-glow,.spark{animation:none}.moving-satellite{display:none}.still-satellite{display:block}}
-</style>
+
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14151f"/><stop offset="1" stop-color="#272039"/></linearGradient>
 <radialGradient id="orb"><stop stop-color="#c4b5fd"/><stop offset=".55" stop-color="#8070c5"/><stop offset="1" stop-color="#39304f"/></radialGradient>
@@ -36,8 +27,7 @@
 <ellipse rx="158" ry="45" transform="rotate(-38)" fill="none" stroke="#d5ff70" stroke-width="2"/>
 <ellipse rx="118" ry="39" transform="rotate(48)" fill="none" stroke="#c4b5fd" stroke-opacity=".5"/>
 <g transform="rotate(-38)">
-<g class="moving-satellite"><animateMotion dur="9s" repeatCount="indefinite" path="M158 0 A158 45 0 1 1 -158 0 A158 45 0 1 1 158 0"/>
-<circle r="17" fill="#d5ff70" opacity=".12"/><circle r="9" fill="#d5ff70"/><circle cx="-2" cy="-2" r="3" fill="#f4ffd8"/></g>
+
 <circle class="still-satellite" cx="158" r="9" fill="#d5ff70"/>
 </g>
 <g class="spark" fill="#c4b5fd"><path d="M-122-115v14m-7-7h14M115 115v10m-5-5h10" stroke="#c4b5fd"/><circle cx="-142" cy="65" r="2"/><circle cx="82" cy="-135" r="2"/></g>

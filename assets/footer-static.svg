@@ -1,12 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title">
 <title id="title">Have an idea? Let's build something useful. Say hello.</title>
-<style>
-.arrow{animation:nudge 2.8s ease-in-out infinite}.accent{animation:drift 6s ease-in-out infinite}.halo{animation:pulse 4s ease-in-out infinite}
-@keyframes nudge{50%{transform:translate(5px,-3px)}}
-@keyframes drift{50%{transform:translateY(16px)}}
-@keyframes pulse{50%{opacity:.18}}
-@media(prefers-reduced-motion:reduce){.arrow,.accent,.halo{animation:none}}
-</style>
+
 <rect width="1200" height="140" rx="20" fill="#191823"/>
 <rect class="accent" x="0" y="30" width="4" height="80" rx="2" fill="#d5ff70"/>
 <circle class="halo" cx="805" cy="70" r="57" fill="#c4b5fd" opacity=".06"/><path d="M690 100 Q760 20 840 70 T950 50" stroke="#c4b5fd" stroke-opacity=".2" fill="none"/><g font-family="Arial, Helvetica, sans-serif">

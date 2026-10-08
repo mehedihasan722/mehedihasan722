@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mehedi Hasan — Thoughtful interfaces. Useful software.](./assets/header.svg)
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/header-static.svg"><img width="100%" alt="Mehedi Hasan - Thoughtful interfaces. Useful software." src="./assets/header.svg"></picture>
 
 **Web & mobile development · Real-time collaboration · Explainable AI**
 
@@ -90,17 +90,32 @@ A Figma-inspired project focused on collaborative design interfaces and canvas i
 
 Tools I work with and technologies I’m continuing to explore.
 
-| Focus | Technologies |
-| :--- | :--- |
-| **Interfaces** | React · Next.js · TypeScript · JavaScript · HTML · CSS |
-| **Applications** | Node.js · Flutter · Dart · GraphQL |
-| **Data & infrastructure** | MongoDB · MySQL · Redis · Firebase · Docker · AWS |
-| **Research & fundamentals** | Python · C · C++ · Java |
-| **Currently exploring** | Rust · Go · Cloud technologies |
+### Languages & fundamentals
+
+![Languages: C, C++, C#, Java, JavaScript, TypeScript, Python, Go, Rust, Dart](https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,go,rust,dart&perline=5)
+
+### Web & mobile
+
+![Web and mobile: HTML, CSS, React, Next.js, Node.js, Svelte, Flutter, GraphQL](https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,svelte,flutter,graphql&perline=4)
+
+### Data, cloud & tools
+
+![Tools: MongoDB, MySQL, SQLite, Redis, Firebase, AWS, Docker, Git, GitHub, Postman](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,firebase,aws,docker,git,github,postman&perline=5)
+
 
 <br>
 
 ## A habit of building
+
+<div align="center">
+
+<a href="https://github.com/mehedihasan722?tab=overview"><img width="700" alt="GitHub streak: total contributions, current streak, and longest streak" src="https://streak-stats.demolab.com?user=mehedihasan722&amp;background=191823&amp;border=39304F&amp;stroke=39304F&amp;ring=D5FF70&amp;fire=D5FF70&amp;currStreakLabel=C4B5FD&amp;sideLabels=C4B5FD&amp;currStreakNum=F5F3FF&amp;sideNums=F5F3FF&amp;dates=A9A6BB"></a>
+
+<a href="https://github.com/mehedihasan722?tab=overview"><img width="100%" alt="GitHub contribution activity graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasan722&amp;theme=tokyonight"></a>
+
+</div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasan722/mehedihasan722/output/snake-dark.svg">
@@ -114,10 +129,15 @@ Tools I work with and technologies I’m continuing to explore.
 
 ## Beyond the editor
 
-I practice problem solving on [Codeforces](https://codeforces.com/profile/mehedi_hasan_), [LeetCode](https://leetcode.com/mehedi_hasan_99), and [HackerRank](https://www.hackerrank.com/mjimehedi99).
+Find me around the web, explore my coding profiles, or get in touch.
 
-Find me on [X / Twitter](https://twitter.com/mehedih13125816) and [Instagram](https://instagram.com/mehedi_hasan_722), or say hello at **[mjimehedi99@gmail.com](mailto:mjimehedi99@gmail.com)**.
+[![GitHub profile](https://img.shields.io/badge/MY_PROFILE-242435?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedihasan722) [![Email](https://img.shields.io/badge/EMAIL-D5FF70?style=for-the-badge&logo=gmail&logoColor=14151F)](mailto:mjimehedi99@gmail.com) [![X](https://img.shields.io/badge/TWITTER_/_X-242435?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mehedih13125816) [![Instagram](https://img.shields.io/badge/INSTAGRAM-242435?style=for-the-badge&logo=instagram&logoColor=C4B5FD)](https://instagram.com/mehedi_hasan_722)
+
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-242435?style=for-the-badge&logo=codeforces&logoColor=C4B5FD)](https://codeforces.com/profile/mehedi_hasan_) [![LeetCode](https://img.shields.io/badge/LEETCODE-242435?style=for-the-badge&logo=leetcode&logoColor=D5FF70)](https://leetcode.com/mehedi_hasan_99) [![HackerRank](https://img.shields.io/badge/HACKERRANK-242435?style=for-the-badge&logo=hackerrank&logoColor=D5FF70)](https://www.hackerrank.com/mjimehedi99)
+
+**Share my profile:** [github.com/mehedihasan722](https://github.com/mehedihasan722)
+
 
 <br>
 
-[![Have an idea? Let's build something useful. Say hello.](./assets/footer.svg)](mailto:mjimehedi99@gmail.com)
+<div><a href="mailto:mjimehedi99@gmail.com"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/footer-static.svg"><img width="100%" alt="Have an idea? Let us build something useful. Say hello." src="./assets/footer.svg"></picture></a></div>
